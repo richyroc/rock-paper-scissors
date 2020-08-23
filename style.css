@@ -1,0 +1,32 @@
+#rock,
+#paper,
+#scissors  {
+  background-color: transparent;
+  padding: 1em;
+  font-size: 4em;
+  border: none;
+  outline: 0;
+}
+
+header {
+  margin: auto;
+  text-align: center;
+  margin: 2em 0 1em;
+}
+
+.gestures {
+  margin: auto;
+}
+
+.game {
+  background-color: #cffffe !important;
+}
+
+.scorecard{
+  background-color: #cffffe !important;
+}
+
+.p1-score, .cpu-score, .result {
+  font-weight: bold;
+}
+
