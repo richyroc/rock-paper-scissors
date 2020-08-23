@@ -1,4 +1,4 @@
-# rock-paper-scissors
+# Rock, Paper, Scissors
 Simple game with HTML, CSS &amp; Vanilla JS
 
 <h2> Functionality </h2> 
